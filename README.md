@@ -1,8 +1,9 @@
 # Зар нэмэх
 <html>
-<head>
-  <h>Зар оруулхын тулд энэ асуултуудыг бөглөнө үү.</h2>
-</head>
+ <head>
+  <h>Зар оруулхын тулд энэ асуултуудыг бөглөнө үү.
+    </h2>
+ </head>
 <body>
  <form>
  <p>
@@ -81,8 +82,10 @@
  </p>
 <p><input type = "submit" value = "Илгээх"/>              
 <input type = "reset" value = "Цэвэрлэх"/></p>
-</form>             
-</body>             
+     </form> 
+  <p><a href="https://lab3-itu.github.io/"><strong>Буцах</strong><a/>
+    </p>
+   </body>             
 </html>            
                     
                     
